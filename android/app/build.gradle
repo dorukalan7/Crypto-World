@@ -17,19 +17,20 @@ def flutterVersionCode = localProperties.getProperty('flutter.versionCode') ?: '
 def flutterVersionName = localProperties.getProperty('flutter.versionName') ?: '1.0'
 
 android {
-
-    compileSdkVersion 34
+    namespace "com.example.yeniproje"
+    compileSdkVersion 35
     ndkVersion "21.4.7075529"
 
     defaultConfig {
         applicationId "com.example.yeniproje"
         minSdkVersion 23
-        targetSdkVersion 34
+        targetSdkVersion 35
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
         lintOptions {
             disable 'InvalidPackage'
         }
+        namespace 'com.example.yeniproje'
     }
 
     compileOptions {
