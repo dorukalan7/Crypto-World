@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "410043188201",
+    "project_id": "dorukalan-96115",
+    "storage_bucket": "dorukalan-96115.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410043188201:android:ab1b93bf79ac52bc584178",
+        "android_client_info": {
+          "package_name": "com.example.crypto_world"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyNNriZuk3QRaFqKB_4UmDoPwh2zlR1sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410043188201:android:45c23f86046d8e96584178",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyNNriZuk3QRaFqKB_4UmDoPwh2zlR1sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410043188201:android:0d4c6a69f37b40cf584178",
+        "android_client_info": {
+          "package_name": "com.example.yeniproje"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyNNriZuk3QRaFqKB_4UmDoPwh2zlR1sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
