@@ -22,9 +22,6 @@
 |------------------------|------------------|
 | ![](assets/screenshots/indicators3.png) | ![](assets/screenshots/indicators2.png) |
 
-| AI Price Prediction | Coin Details |
-|---------------------|--------------|
-| ![](assets/screenshots/prediction.png) | ![](assets/screenshots/prediction2.png) |
 
 ---
 
@@ -39,3 +36,28 @@
 - 📉 **Detailed Coin View**: With key metrics and analysis.
 
 ---
+
+🧠 Backend – AI-Powered Bitcoin Price Forecasting API
+The Crypto World backend is a FastAPI-powered service that delivers 30-day Bitcoin price forecasts using a combination of statistical and machine learning models. It runs independently and communicates with the frontend via a public Ngrok tunnel.
+
+⚙️ Technologies Used
+🐍 FastAPI – Fast, asynchronous Python web framework
+
+📦 Statsmodels – For SARIMAX time series modeling
+
+🔢 Scikit-learn – For Random Forest regression
+
+🧠 TensorFlow/Keras – For LSTM neural network
+
+📊 Pandas & NumPy – Data processing and numerical computation
+
+🌐 Ngrok – Exposes the local API to the internet securely
+
+
+| AI Price Prediction | Coin Details |
+|---------------------|--------------|
+| ![](assets/screenshots/prediction.png) | ![](assets/screenshots/prediction2.png) |
+
+
+final_prediction = 0.5 * SARIMAX + 0.4 * RandomForest + 0.1 * LSTM
+
