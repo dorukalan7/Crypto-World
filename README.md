@@ -1,16 +1,41 @@
-# crypto_world
+# 💹 Crypto World
 
-A new Flutter project.
+**Crypto World** is a powerful, AI-driven crypto market analysis platform. It provides real-time data, technical indicators, anomaly detection, and deep learning-based price prediction. The project is designed to support both casual users and experienced traders by delivering clear insights and interactive tools.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎥 Demo Video
 
-A few resources to get you started if this is your first Flutter project:
+[![Watch the Demo](screenshots/preview.png)](https://www.youtube.com/shorts/9b4NrTnpcw4)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+> Click the image above to watch a short demo of Crypto World in action.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🖼️ Screenshots
+
+| Home Page | Fullscreen Chart |
+|-----------|------------------|
+| ![](screenshots/home.png) | ![](screenshots/fullscreen.png) |
+
+| RSI & Bollinger Bands | Anomaly Detection |
+|------------------------|------------------|
+| ![](screenshots/rsi_bollinger.png) | ![](screenshots/anomaly.png) |
+
+| AI Price Prediction | Coin Details |
+|---------------------|--------------|
+| ![](screenshots/prediction.png) | ![](screenshots/details.png) |
+
+---
+
+## 🧠 Key Features
+
+- 📈 **Real-time Coin Data**: Live updates using external APIs.
+- 🧮 **Technical Indicators**: RSI, Bollinger Bands, and Moving Averages.
+- 📊 **Fullscreen Charts**: Interactive and expandable charting for better visualization.
+- ⚠️ **Anomaly Detection**: Detects sudden drops or spikes in coin values in real-time.
+- 🤖 **AI Price Prediction**: Predicts future prices for the next 30 days using a TensorFlow-based deep learning model.
+- 🔗 **Backend Integration**: Python FastAPI via Ngrok is used to serve the trained AI model.
+- 📉 **Detailed Coin View**: With key metrics and analysis.
+
+---
