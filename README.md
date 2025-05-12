@@ -6,7 +6,7 @@
 
 ## 🎥 Demo Video
 
-[![Watch the Demo](screenshots/preview.png)](https://www.youtube.com/shorts/9b4NrTnpcw4)
+[![Watch the Demo](assets/screenshots/preview.png)](https://www.youtube.com/shorts/9b4NrTnpcw4)
 
 > Click the image above to watch a short demo of Crypto World in action.
 
@@ -16,15 +16,15 @@
 
 | Home Page | Fullscreen Chart |
 |-----------|------------------|
-| ![](screenshots/home.png) | ![](screenshots/fullscreen.png) |
+| ![](assets/screenshots/home.png) | ![](assets/screenshots/fullscreen.png) |
 
 | RSI & Bollinger Bands | Anomaly Detection |
 |------------------------|------------------|
-| ![](screenshots/rsi_bollinger.png) | ![](screenshots/anomaly.png) |
+| ![](assets/screenshots/rsi_bollinger.png) | ![](assets/screenshots/anomaly.png) |
 
 | AI Price Prediction | Coin Details |
 |---------------------|--------------|
-| ![](screenshots/prediction.png) | ![](screenshots/details.png) |
+| ![](assets/screenshots/prediction.png) | ![](assets/screenshots/details.png) |
 
 ---
 
